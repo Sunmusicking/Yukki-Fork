@@ -25,7 +25,7 @@ node(){
 
 
 repo(){
-	git clone https://github.com/Sunmusicking/Yukki-Fork &&  cd YukkiMusicBot
+	git clone https://github.com/Sunmusicking/Yukki-Fork &&  cd RomANCE_RoBOT
 }
 
 
